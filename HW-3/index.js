@@ -63,4 +63,4 @@ console.log(multiplyNumber(2, 6));
 function divideNumber(a, b) {
   return a / b;
 }
-console.log(divide(6, 2));
+console.log(divideNumber(6, 2));
